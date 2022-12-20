@@ -1,0 +1,15 @@
+@import url(https://fonts.googleapis.com/css?family=Robota:300);
+.tab1{
+	margin-top: 60px;
+}
+body{
+	padding: 150px;
+}
+.bg{
+	background-color: #D0E3E9;
+
+}
+.primaryColor{
+    color: #0EBFB3;
+    text-decoration: none;
+}
